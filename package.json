@@ -1,7 +1,7 @@
 {
   "name": "remote-spawn",
   "version": "1.0.0",
-  "description": "Run processes from the browser in a somehat safe manner, pipe stdnin and stdout via websockets",
+  "description": "Run processes from the browser in a somewhat safe manner, pipe stdnin and stdout via websockets",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -17,7 +17,7 @@
     "pull-stream": "^3.5.0"
   },
   "keywords": [
-    "spwan",
+    "spawn",
     "process",
     "htmshell",
     "websocket",
